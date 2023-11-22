@@ -4,5 +4,5 @@ console.warn("ini adalah console warn");
 console.error("ini adalah console error");
 
 function goToAnotherPage() {
-    window.location.href = 'event.html';
+    window.location.href = 'https://www.upi.edu/';
 }
